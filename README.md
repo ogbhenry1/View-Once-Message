@@ -18,6 +18,6 @@ How to play 👉👉
 
 # To Run the Project
 1. Clone the directories on your site and that's it 
-To create messages visit your-site/createmessage
+To create messages visit your-site/createmessage.php
 
 Don't forget to follow mw
